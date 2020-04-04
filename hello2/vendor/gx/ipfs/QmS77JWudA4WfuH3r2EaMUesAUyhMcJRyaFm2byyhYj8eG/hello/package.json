@@ -1,0 +1,12 @@
+{
+  "name": "hello",
+  "author": "tarek",
+  "version": "0.0.0",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "language": "go",
+  "license": "",
+  "bugs": {
+    "url": "non"
+  },
+  "gxVersion": "0.14.2"
+}

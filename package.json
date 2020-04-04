@@ -1,0 +1,21 @@
+{
+  "author": "tarek",
+  "bugs": {
+    "url": "non"
+  },
+  "gxDependencies": [
+    {
+      "author": "tarek",
+      "hash": "QmZ4n4DrynxTK8ceKGgWa4yp9Cv5PywuxTXceW9hZygsdE",
+      "name": "hello2",
+      "version": "0.0.0"
+    }
+  ],
+  "gxVersion": "0.14.2",
+  "language": "go",
+  "license": "",
+  "name": "helloworld",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
